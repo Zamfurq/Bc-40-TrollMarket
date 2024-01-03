@@ -2,5 +2,6 @@ This will be configuration of Troll Market
 
 Add Service with Dependency Injection
 
+Add Service in Order
 Add Service in Product
 Add Service in Category
